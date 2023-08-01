@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mi4p"]
-	path = mi4p
-	url = https://github.com/mariechion/mi4p
 [submodule "ProteoBayes"]
 	path = ProteoBayes
 	url = https://github.com/mariechion/proteobayes
+[submodule "mi4p"]
+	path = mi4p
+	url = https://github.com/mariechion/mi4p
